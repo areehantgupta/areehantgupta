@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @areehantgupta
-- 👀 I’m interested in C++ Unreal Engine, Python, Python machine learning, html, js, css. 
+- 👀 I do C++ Unreal Engine, Python, Python machine learning, html, js, css. 
 - 🌱 I’m currently working on an unreal engine project with a team. 
 - 💞️ I’m currently not looking to collaborate. 
 - 📫 How to reach me: You can contact areehantunrealengine@hotmail.com
